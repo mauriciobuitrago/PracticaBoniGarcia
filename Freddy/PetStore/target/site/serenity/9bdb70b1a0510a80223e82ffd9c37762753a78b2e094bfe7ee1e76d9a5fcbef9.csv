@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","Login successfull","SUCCESS","2023-03-27T16:05:12.791-05:00[America/Bogota]","0.0","17.03"
+"Login","Login Unsuccesssfull","SUCCESS","2023-03-27T16:05:30.601-05:00[America/Bogota]","0.0","15.38"
+"Login","login without user","SUCCESS","2023-03-27T16:05:46.678-05:00[America/Bogota]","0.0","15.04"
+"Login","login without password","SUCCESS","2023-03-27T16:06:02.411-05:00[America/Bogota]","0.0","14.35"
